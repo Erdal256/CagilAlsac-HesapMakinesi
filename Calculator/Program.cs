@@ -50,6 +50,7 @@ namespace HesapMakinesi
                 Console.Write("\n");
 
             }
+            
             bool cikis = false;
             Console.WriteLine("Hesap Makinesı:");
             Console.WriteLine();
